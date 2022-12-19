@@ -1,0 +1,10 @@
+casaos="casaos"
+custom_id="564e55a7-097c-4e38-b0fd-d8a9287433d4"
+desc="App to trigger a command based on changes to a monitored directory"
+host=""
+icon=http://casaos.local/v1/file?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Impmb3JyZXN0ZXIubnljIiwicGFzc3dvcmQiOiI1OGY2N2FhZTFkYzIwNzQ1YzcyYjZhODM0ZWJjNzNmZiIsImlkIjoxLCJpc3MiOiJjYXNhb3MiLCJleHAiOjE2NzEzMjE2NjQsIm5iZiI6MTY3MTMxMDg2NCwiaWF0IjoxNjcxMzEwODY0fQ.AcxPjYt-C7NMiafLzmhIyAUY5fOnpdvfboyRuwI9Zrc&path=%2FDATA%2FAppData%2FFolder%20Monitor%2Fvector-folder-icon.png
+index=""
+name="Folder Monitor"
+origin="custom"
+protocol="http"
+show_env="casaos"

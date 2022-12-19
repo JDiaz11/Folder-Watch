@@ -1,0 +1,3 @@
+sudo docker run --name=folder-watch -d -v /etc/localtime:/etc/localtime -v  "/DATA/AppData/config:/config":rw -v "/mnt/Storage1-1/mega/media/Photos":/dir1 -v "/mnt/Storage1-1/Photos":/dir2 -v 
+"/mnt/Storage1-1/mega/media/Movies":/dir3 -v "/mnt/Storage1-1/Media/Movies":/dir4 -v "/mnt/Storage1-1/mega/media/Music":/dir5 -v "/mnt/Storage1-1/Media/Music":/dir6 -v "/mnt/Storage1-1/mega/media/TV":/dir7 
+-v "/mnt/Storage1-1/Media/TV":/dir8 -v "/mnt/Storage1-1/Media/Videos":/dir9 -v "/mnt/Storage1-1/mega/media/Videos":/dir10 --label-file dockerlabels.txt folder-watch

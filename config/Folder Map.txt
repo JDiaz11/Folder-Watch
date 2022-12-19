@@ -1,0 +1,17 @@
+/etc/localtime :    /etc/localtime
+/config:            /DATA/AppData/config
+
+/dir1 :             /mnt/Storage1-1/mega/media/Photos
+/dir2 :             /mnt/Storage1-1/Photos
+
+/dir3 :             /mnt/Storage1-1/mega/media/Movies
+/dir4 :             /mnt/Storage1-1/Media/Movies
+
+/dir5 :             /mnt/Storage1-1/mega/media/Music
+/dir6 :             /mnt/Storage1-1/Media/Music
+
+/dir7 :             /mnt/Storage1-1/mega/media/TV
+/dir8 :             /mnt/Storage1-1/Media/TV
+
+/dir9 :             /mnt/Storage1-1/Media/Videos
+/dir10 :            /mnt/Storage1-1/mega/media/Videos
